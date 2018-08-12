@@ -1,0 +1,22 @@
+12/08/2018 13:08:29 devpinoyLogger Thread : 7d3f6cb5270b  Browser : firefox  Clicking on an Element : bmlBtn_CSS
+12/08/2018 13:08:29 devpinoyLogger Thread : 7efb6c08083b  Browser : firefox  Clicking on an Element : bmlBtn_CSS
+12/08/2018 13:08:34 devpinoyLogger Thread : 7d3f6cb5270b  Browser : firefox  Clicking on an Element : openaccount_CSS
+12/08/2018 13:08:34 devpinoyLogger Thread : 7efb6c08083b  Browser : firefox  Clicking on an Element : addCustBtn_CSS
+12/08/2018 13:08:35 devpinoyLogger Thread : 7d3f6cb5270b  Browser : firefox  Selecting an Element : customer_CSS
+12/08/2018 13:08:41 devpinoyLogger Thread : 7d3f6cb5270b  Browser : firefox  Selecting an Element : currency_CSS
+12/08/2018 13:08:41 devpinoyLogger Thread : 7efb6c08083b  Browser : firefox  Typing in an Element : firstName_CSS
+12/08/2018 13:08:44 devpinoyLogger Thread : 7efb6c08083b  Browser : firefox  Typing in an Element : lastName_XPATH
+12/08/2018 13:08:46 devpinoyLogger Thread : 7d3f6cb5270b  Browser : firefox  Clicking on an Element : process_CSS
+12/08/2018 13:08:46 devpinoyLogger Thread : 7efb6c08083b  Browser : firefox  Typing in an Element : postCode_CSS
+12/08/2018 13:08:48 devpinoyLogger Thread : 7efb6c08083b  Browser : firefox  Clicking on an Element : addbtn_CSS
+12/08/2018 13:08:51 devpinoyLogger Thread : 9b45e4ab03dc  Browser : firefox  Clicking on an Element : bmlBtn_CSS
+12/08/2018 13:08:52 devpinoyLogger Thread : 9b45e4ab03dc  Browser : firefox  Clicking on an Element : openaccount_CSS
+12/08/2018 13:08:52 devpinoyLogger Thread : 9b45e4ab03dc  Browser : firefox  Selecting an Element : customer_CSS
+12/08/2018 13:08:52 devpinoyLogger Thread : a99e674a0fb5  Browser : firefox  Clicking on an Element : bmlBtn_CSS
+12/08/2018 13:08:53 devpinoyLogger Thread : a99e674a0fb5  Browser : firefox  Clicking on an Element : addCustBtn_CSS
+12/08/2018 13:08:53 devpinoyLogger Thread : 9b45e4ab03dc  Browser : firefox  Selecting an Element : currency_CSS
+12/08/2018 13:08:55 devpinoyLogger Thread : a99e674a0fb5  Browser : firefox  Typing in an Element : firstName_CSS
+12/08/2018 13:08:55 devpinoyLogger Thread : 9b45e4ab03dc  Browser : firefox  Clicking on an Element : process_CSS
+12/08/2018 13:08:56 devpinoyLogger Thread : a99e674a0fb5  Browser : firefox  Typing in an Element : lastName_XPATH
+12/08/2018 13:08:56 devpinoyLogger Thread : a99e674a0fb5  Browser : firefox  Typing in an Element : postCode_CSS
+12/08/2018 13:08:56 devpinoyLogger Thread : a99e674a0fb5  Browser : firefox  Clicking on an Element : addbtn_CSS
