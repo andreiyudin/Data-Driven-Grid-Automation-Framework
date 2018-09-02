@@ -36,6 +36,7 @@ public class AddCustomerTest extends TestBase {
 	
 	@AfterMethod
 	public void tearDown() {
+		
 		if(rep!=null) {
 			rep.endTest(getExtTest());
 			rep.flush();
